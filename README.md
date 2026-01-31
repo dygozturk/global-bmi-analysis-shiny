@@ -71,6 +71,6 @@ global-bmi-analysis │
 
 ## Author
 
-Duygu Öztürk\
-Computer Engineering Student\
+Duygu ÖZTÜRK\
+Computer Engineering\
 Interested in Data Science, Machine Learning and Analytics
